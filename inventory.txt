@@ -1,0 +1,6 @@
+1,Laptop,6,50000.0
+2,Laptop,5,50000.0
+3,HPLaptop,7,55000.0
+4,Delllaptop,7,55000.0
+5,Mobile,5,34000.0
+6,VIVOV40,4,44400.0
